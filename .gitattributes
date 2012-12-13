@@ -1,0 +1,5 @@
+# GITHUB LOCAL:
+
+# Force LF line endings for .sh files 
+# to be nice to Windows developers
+*.sh eol=lf
